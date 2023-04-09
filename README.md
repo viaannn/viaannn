@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viaannn
-- 🌱 I’m currently learning NestJS, Golang
+- 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on Any Backend Projects
 
 <!---
