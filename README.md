@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vian!
+## Hi there 👋, I'm Vian!
 
 ### 🛠 Tech Stack
 - **Languages:** Java, Go, Rust
