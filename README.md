@@ -8,3 +8,5 @@ I specialize in developing high-performance backend applications with a focus on
 - **Databases:** PostgreSQL, Redis, MySQL
 - **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
 - **Cloud:** AWS, GCP
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viaannn&layout=compact&theme=transparent) 
